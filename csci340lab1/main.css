@@ -1,0 +1,32 @@
+html, body{
+  text-align: center;
+  font-family: 'Cormorant', serif;
+  font-size: 30px;
+}
+
+h1{
+  font-family: 'Staatliches', cursive;
+}
+h2{
+  font-family: 'Josefin Slab', serif;
+  font-size: 70px;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+}
+
+.picture{
+}
+
+.Monkey{
+  background-color: #7A4C42;
+}
+
+.Silver{
+  background-color: #C1C1C1;
+}
+
+.Library{
+  background-color: #D5A14C;
+}
