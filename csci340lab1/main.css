@@ -1,4 +1,4 @@
-html, body{
+body{
   font-family: 'Cormorant', serif;
   font-size: 30px;
   background-color: #F78181;
@@ -6,6 +6,7 @@ html, body{
 
 h1{
   font-family: 'Oswald', sans-serif;
+  font-size:70px;
 }
 h2{
   font-family: 'Josefin Slab', serif;
