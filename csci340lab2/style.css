@@ -1,0 +1,35 @@
+body{
+  background-color: orange;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 130px;
+}
+
+h2{
+  font-family: 'Azeret Mono', monospace;
+}
+
+.dp{
+  margin-top: 5px;
+background-color: grey;
+font-family: serif;
+}
+
+#photo{
+  border:5px solid black;
+  margin: 5px;
+}
+
+.button{
+  margin: 5px;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 30px;
+}
+
+.advice{
+  border:5px solid black;
+  background-color: gold;
+}
