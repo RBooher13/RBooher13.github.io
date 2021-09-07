@@ -12,10 +12,10 @@ error: function(xhr,status,error){
 }
 });
 $.ajax({
-  url:"http://www.boredapi.com/api/activity/",
+  url:"https://api.quotable.io/random",
   datatype:"json",
   success: function(results){
-    $(".advice").text(results["activity"]+".");
+    $(".advice").text(results["content"]+".");
 },
 error: function(xhr,status,error){
   console.log(error);
